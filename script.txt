@@ -1,7 +1,7 @@
 if game.Players.LocalPlayer.UserId == 696515030 then
 print("Access Enabled")
 else
-game.Players.LocalPlayer:Kick("Denied (Don't try to leak this)")
+game.Players.LocalPlayer:Kick("You're not Whitelisted! (Join dsc.gg/rcm ~ to Buy!)")
 print("Denied")
 end
 
